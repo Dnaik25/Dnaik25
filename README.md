@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruvil (Dru)</h1>
+<h1 align="center">Ola 👋, I'm Dhruvil (Dru)</h1>
 <h3 align="center">Geeking Out on Data, One Byte at a Time!</h3>
 
 <img align="right" alt="programming" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/08/wft.gif">
