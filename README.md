@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvil (Dru)</h1>
 <h3 align="center">Your Trusted Partner in Success!</h3>
 
-<img align="right" alt="programming" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/08/wft.gif">
+<img align="right" alt="programming" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/08/wft.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnaik25&label=Profile%20views&color=87bad9&style=flat" alt="dnaik25" /> </p>
 
